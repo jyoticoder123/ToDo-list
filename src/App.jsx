@@ -1,7 +1,8 @@
 import { useState } from "react";
-import Create from "./components/Create";
+import Create from "./components/Create";   
 import Header from "./components/Header";
 import Show from "./components/Show";
+import 'remixicon/fonts/remixicon.css'
 
 const App = () => {
     // temperory db

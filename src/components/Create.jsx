@@ -32,7 +32,7 @@ const Create = (props) => {
                 value={title}
             />
             <button className="outline-none text-4xl font-extrabold flex justify-center items-center w-[50px] h-[50px] rounded-full bg-orange-600">
-                <i className="ri-add-fill">+</i>
+                <i className="ri-add-fill"></i>
             </button>
         </form>
     );
